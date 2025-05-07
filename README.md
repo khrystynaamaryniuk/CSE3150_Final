@@ -6,4 +6,4 @@ g++ -std=c++11 -I. -o unit_testing unit_testing.cpp
 
 Main:
  g++ -std=c++17 -o timed_ptr start.cpp 
- ./timed_prt
+ ./timed_ptr
